@@ -8,7 +8,7 @@ version = "0.1.0"
 description = "LangChain integration for Cala — the verified knowledge graph API for AI agents"
 readme = "README.md"
 license = { text = "MIT" }
-authors = [{ name = "Lance", email = "your@email.com" }]
+authors = [{ name = "Lance Salavert", email = "lancelot.salavert@gmail.com" }]
 keywords = [
     "langchain",
     "cala",
@@ -48,10 +48,10 @@ dev = [
 ]
 
 [project.urls]
-Homepage = "https://github.com/your-username/langchain-cala"
+Homepage = "https://github.com/lancelot2/langchain-cala"
 Documentation = "https://docs.cala.ai"
-Repository = "https://github.com/your-username/langchain-cala"
-"Bug Tracker" = "https://github.com/your-username/langchain-cala/issues"
+Repository = "https://github.com/lancelot2/langchain-cala"
+"Bug Tracker" = "https://github.com/lancelot2/langchain-cala/issues"
 
 [tool.hatch.build.targets.wheel]
 packages = ["langchain_cala"]
